@@ -12,7 +12,6 @@ async function summarizeText(text) {
     }
   });
 
-
   let config = {
     method: 'post',
     maxBodyLength: Infinity,
