@@ -31,7 +31,6 @@ async function summarizeText(text) {
   catch (error) {
     console.log(error);
   }
-
 }
 
 // Allows for summarizeText() to be called outside of this file
