@@ -34,5 +34,4 @@ async function summarizeText(text) {
 }
 
 // Allows for summarizeText() to be called outside of this file
-
 module.exports = summarizeText;
